@@ -50,6 +50,10 @@
         <li>
           <def>AnimalJuvenile</def>
           <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
         </li>
         <li>
           <def>AnimalAdult</def>
@@ -152,7 +156,7 @@
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animals/Kelenken/Kelenken</texPath>
+          <texPath>Animals/Kelenken/KelenkenChick</texPath>
           <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
@@ -167,7 +171,7 @@
       <li>
         <bodyGraphicData>
           <texPath>Animals/Kelenken/Kelenken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.2</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -175,7 +179,7 @@
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Kelenken/Dessicated_Kelenken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.2</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -231,6 +235,10 @@ Paraken are what happens when you make a parrot into a terror bird. Much more do
         <li>
           <def>AnimalJuvenile</def>
           <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
         </li>
         <li>
           <def>AnimalAdult</def>
@@ -324,7 +332,7 @@ Paraken are what happens when you make a parrot into a terror bird. Much more do
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animals/Paraken/Paraken</texPath>
+          <texPath>Animals/Paraken/ParakenChick</texPath>
           <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
@@ -339,7 +347,7 @@ Paraken are what happens when you make a parrot into a terror bird. Much more do
       <li>
         <bodyGraphicData>
           <texPath>Animals/Paraken/Paraken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.2</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -347,7 +355,7 @@ Paraken are what happens when you make a parrot into a terror bird. Much more do
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Paraken/Dessicated_Paraken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.2</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -402,6 +410,10 @@ Penglenken are what happens when you make a penguin into a terror bird. This bre
         <li>
           <def>AnimalJuvenile</def>
           <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
         </li>
         <li>
           <def>AnimalAdult</def>
@@ -486,8 +498,8 @@ Penglenken are what happens when you make a penguin into a terror bird. This bre
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animals/Penglenken/Penglenken</texPath>
-          <drawSize>1.4</drawSize>
+          <texPath>Animals/Penglenken/PenglenkenChick</texPath>
+          <drawSize>1.2</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
             <offset>(0,0,-0.3)</offset>
@@ -495,13 +507,13 @@ Penglenken are what happens when you make a penguin into a terror bird. This bre
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Penglenken/Dessicated_Penglenken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.2</drawSize>
         </dessicatedBodyGraphicData>
       </li>
       <li>
         <bodyGraphicData>
           <texPath>Animals/Penglenken/Penglenken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.8</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -509,7 +521,7 @@ Penglenken are what happens when you make a penguin into a terror bird. This bre
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Penglenken/Dessicated_Penglenken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.8</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -564,6 +576,10 @@ Touken are what happens when you make a Toucan into a terror bird. This breed is
         <li>
           <def>AnimalJuvenile</def>
           <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
         </li>
         <li>
           <def>AnimalAdult</def>
@@ -649,7 +665,7 @@ Touken are what happens when you make a Toucan into a terror bird. This breed is
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animals/Touken/Touken</texPath>
+          <texPath>Animals/Touken/ToukenChick</texPath>
           <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
@@ -664,7 +680,7 @@ Touken are what happens when you make a Toucan into a terror bird. This breed is
       <li>
         <bodyGraphicData>
           <texPath>Animals/Touken/Touken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -672,7 +688,7 @@ Touken are what happens when you make a Toucan into a terror bird. This breed is
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Touken/Dessicated_Touken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>1.4</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -727,6 +743,10 @@ Vulakenare is what happens when you make a Bearded Vulture into a terror bird. T
         <li>
           <def>AnimalJuvenile</def>
           <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
         </li>
         <li>
           <def>AnimalAdult</def>
@@ -812,7 +832,7 @@ Vulakenare is what happens when you make a Bearded Vulture into a terror bird. T
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animals/Vulaken/Vulaken</texPath>
+          <texPath>Animals/Vulaken/VulakenChick</texPath>
           <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
@@ -827,7 +847,7 @@ Vulakenare is what happens when you make a Bearded Vulture into a terror bird. T
       <li>
         <bodyGraphicData>
           <texPath>Animals/Vulaken/Vulaken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -835,7 +855,7 @@ Vulakenare is what happens when you make a Bearded Vulture into a terror bird. T
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Vulaken/Dessicated_Vulaken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>1.4</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -880,7 +900,7 @@ Desert Sparaken is what happens when you make a Desert Sparrow into a terror bir
       <baseBodySize>2</baseBodySize>
       <baseHealthScale>1.4</baseHealthScale>
       <baseHungerRate>0.28</baseHungerRate>
-      <foodType>HerbivoreAnimal</foodType>
+      <foodType>VegetarianRoughAnimal</foodType>
       <wildness>0.80</wildness>
       <lifeExpectancy>45</lifeExpectancy>
       <meatLabel>bird meat</meatLabel>
@@ -890,6 +910,10 @@ Desert Sparaken is what happens when you make a Desert Sparrow into a terror bir
         <li>
           <def>AnimalJuvenile</def>
           <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
         </li>
         <li>
           <def>AnimalAdult</def>
@@ -976,7 +1000,7 @@ Desert Sparaken is what happens when you make a Desert Sparrow into a terror bir
       <li>
         <bodyGraphicData>
           <texPath>Animals/DesertSparaken/DesertSparaken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.2</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
             <offset>(0,0,-0.3)</offset>
@@ -984,13 +1008,13 @@ Desert Sparaken is what happens when you make a Desert Sparrow into a terror bir
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/DesertSparaken/Dessicated_DesertSparaken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.2</drawSize>
         </dessicatedBodyGraphicData>
       </li>
       <li>
         <bodyGraphicData>
           <texPath>Animals/DesertSparaken/DesertSparaken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -998,7 +1022,7 @@ Desert Sparaken is what happens when you make a Desert Sparrow into a terror bir
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/DesertSparaken/Dessicated_DesertSparaken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>1.4</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -1054,6 +1078,10 @@ Pileaken is what happens when you make a Pileated pecker into a terror bird. Thi
         <li>
           <def>AnimalJuvenile</def>
           <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
         </li>
         <li>
           <def>AnimalAdult</def>
@@ -1139,8 +1167,8 @@ Pileaken is what happens when you make a Pileated pecker into a terror bird. Thi
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animals/Pileaken/Pileaken</texPath>
-          <drawSize>1.4</drawSize>
+          <texPath>Animals/Pileaken/PileakenChick</texPath>
+          <drawSize>1.2</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
             <offset>(0,0,-0.3)</offset>
@@ -1148,13 +1176,13 @@ Pileaken is what happens when you make a Pileated pecker into a terror bird. Thi
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Pileaken/Dessicated_Pileaken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.2</drawSize>
         </dessicatedBodyGraphicData>
       </li>
       <li>
         <bodyGraphicData>
           <texPath>Animals/Pileaken/Pileaken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.8</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -1162,7 +1190,7 @@ Pileaken is what happens when you make a Pileated pecker into a terror bird. Thi
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Pileaken/Dessicated_Pileaken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.8</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -1217,6 +1245,10 @@ Sparaken is what happens when you make a Sparrow into a terror bird. This breed 
         <li>
           <def>AnimalJuvenile</def>
           <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
         </li>
         <li>
           <def>AnimalAdult</def>
@@ -1301,7 +1333,7 @@ Sparaken is what happens when you make a Sparrow into a terror bird. This breed 
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animals/Sparaken/Sparaken</texPath>
+          <texPath>Animals/Sparaken/SparakenChick</texPath>
           <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
@@ -1316,7 +1348,7 @@ Sparaken is what happens when you make a Sparrow into a terror bird. This breed 
       <li>
         <bodyGraphicData>
           <texPath>Animals/Sparaken/Sparaken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -1324,7 +1356,7 @@ Sparaken is what happens when you make a Sparrow into a terror bird. This breed 
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Sparaken/Dessicated_Sparaken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>1.4</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -1379,6 +1411,10 @@ Heronken are what happens when you make a heron into a terror bird. Living large
         <li>
           <def>AnimalJuvenile</def>
           <minAge>0</minAge>
+          <soundWounded>Pawn_Chick_Call</soundWounded>
+          <soundDeath>Pawn_Chick_Call</soundDeath>
+          <soundCall>Pawn_Chick_Call</soundCall>
+          <soundAngry>Pawn_Chick_Call</soundAngry>
         </li>
         <li>
           <def>AnimalAdult</def>
@@ -1464,7 +1500,7 @@ Heronken are what happens when you make a heron into a terror bird. Living large
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animals/Heronken/Heronken</texPath>
+          <texPath>Animals/Heronken/HeronkenChick</texPath>
           <drawSize>1.4</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
@@ -1473,13 +1509,13 @@ Heronken are what happens when you make a heron into a terror bird. Living large
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Heronken/Dessicated_Heronken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.2</drawSize>
         </dessicatedBodyGraphicData>
       </li>
       <li>
         <bodyGraphicData>
           <texPath>Animals/Heronken/Heronken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.2</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -1487,7 +1523,7 @@ Heronken are what happens when you make a heron into a terror bird. Living large
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Heronken/Dessicated_Heronken</texPath>
-          <drawSize>1.8</drawSize>
+          <drawSize>2.2</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
