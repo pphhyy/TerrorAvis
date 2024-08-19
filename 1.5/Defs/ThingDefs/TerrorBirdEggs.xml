@@ -67,7 +67,7 @@
         </statBases>
         <comps>
           <li Class="CompProperties_Hatcher">
-            <hatcherDaystoHatch>7</hatcherDaystoHatch>
+            <hatcherDaystoHatch>5</hatcherDaystoHatch>
             <hatcherPawn>pphhyy_Kelenken</hatcherPawn>
           </li>
         </comps>
@@ -90,7 +90,7 @@
         </statBases>
         <comps>
           <li Class="CompProperties_Hatcher">
-            <hatcherDaystoHatch>7</hatcherDaystoHatch>
+            <hatcherDaystoHatch>5</hatcherDaystoHatch>
             <hatcherPawn>pphhyy_Paraken</hatcherPawn>
           </li>
         </comps>
@@ -114,7 +114,7 @@
         </statBases>
         <comps>
           <li Class="CompProperties_Hatcher">
-            <hatcherDaystoHatch>7</hatcherDaystoHatch>
+            <hatcherDaystoHatch>5</hatcherDaystoHatch>
             <hatcherPawn>pphhyy_Heronken</hatcherPawn>
           </li>
         </comps>
@@ -137,7 +137,7 @@
         </statBases>
         <comps>
           <li Class="CompProperties_Hatcher">
-            <hatcherDaystoHatch>7</hatcherDaystoHatch>
+            <hatcherDaystoHatch>3</hatcherDaystoHatch>
             <hatcherPawn>pphhyy_Sparaken</hatcherPawn>
           </li>
         </comps>
@@ -160,7 +160,7 @@
         </statBases>
         <comps>
           <li Class="CompProperties_Hatcher">
-            <hatcherDaystoHatch>7</hatcherDaystoHatch>
+            <hatcherDaystoHatch>3</hatcherDaystoHatch>
             <hatcherPawn>pphhyy_DesertSparaken</hatcherPawn>
           </li>
         </comps>
@@ -183,7 +183,7 @@
         </statBases>
         <comps>
           <li Class="CompProperties_Hatcher">
-            <hatcherDaystoHatch>7</hatcherDaystoHatch>
+            <hatcherDaystoHatch>3</hatcherDaystoHatch>
             <hatcherPawn>pphhyy_Vulaken</hatcherPawn>
           </li>
         </comps>
@@ -206,7 +206,7 @@
         </statBases>
         <comps>
           <li Class="CompProperties_Hatcher">
-            <hatcherDaystoHatch>7</hatcherDaystoHatch>
+            <hatcherDaystoHatch>3</hatcherDaystoHatch>
             <hatcherPawn>pphhyy_Touken</hatcherPawn>
           </li>
         </comps>
