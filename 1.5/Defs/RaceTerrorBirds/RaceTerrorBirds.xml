@@ -14,6 +14,7 @@
       <ComfyTemperatureMin>8</ComfyTemperatureMin>
       <ComfyTemperatureMax>34</ComfyTemperatureMax>
       <FilthRate>8</FilthRate>
+      <CaravanRidingSpeedFactor>1.4</CaravanRidingSpeedFactor>
     </statBases>
     <butcherProducts>
       <Leather_Bird>15</Leather_Bird>
@@ -136,6 +137,7 @@
     <race>pphhyy_Kelenken</race>
     <wildGroupSize>1~3</wildGroupSize>
     <combatPower>60</combatPower>
+    <alternateGraphicChance>0.6</alternateGraphicChance>
     <alternateGraphics>
       <li>
         <texPath>Animals/Kelenken/Kelenken2</texPath>
@@ -199,6 +201,7 @@ Paraken are what happens when you make a parrot into a terror bird. Much more do
       <ComfyTemperatureMin>8</ComfyTemperatureMin>
       <ComfyTemperatureMax>35</ComfyTemperatureMax>
       <FilthRate>8</FilthRate>
+      <CaravanRidingSpeedFactor>1.4</CaravanRidingSpeedFactor>
     </statBases>
     <butcherProducts>
       <Leather_Bird>15</Leather_Bird>
@@ -321,6 +324,7 @@ Paraken are what happens when you make a parrot into a terror bird. Much more do
     <race>pphhyy_Paraken</race>
     <wildGroupSize>1~3</wildGroupSize>
     <combatPower>60</combatPower>
+    <alternateGraphicChance>0.6</alternateGraphicChance>
     <alternateGraphics>
       <li>
         <texPath>Animals/Paraken/Paraken2</texPath>
@@ -374,6 +378,7 @@ Penglenken are what happens when you make a penguin into a terror bird. This bre
       <ComfyTemperatureMin>-20</ComfyTemperatureMin>
       <ComfyTemperatureMax>15</ComfyTemperatureMax>
       <FilthRate>8</FilthRate>
+      <CaravanRidingSpeedFactor>1.2</CaravanRidingSpeedFactor>
     </statBases>
     <butcherProducts>
       <Leather_Bird>15</Leather_Bird>
@@ -540,6 +545,7 @@ Touken are what happens when you make a Toucan into a terror bird. This breed is
       <ComfyTemperatureMin>5</ComfyTemperatureMin>
       <ComfyTemperatureMax>34</ComfyTemperatureMax>
       <FilthRate>8</FilthRate>
+      <CaravanRidingSpeedFactor>1.6</CaravanRidingSpeedFactor>
     </statBases>
     <butcherProducts>
       <Leather_Bird>15</Leather_Bird>
@@ -707,6 +713,7 @@ Vulakenare is what happens when you make a Bearded Vulture into a terror bird. T
       <ComfyTemperatureMin>10</ComfyTemperatureMin>
       <ComfyTemperatureMax>40</ComfyTemperatureMax>
       <FilthRate>8</FilthRate>
+      <CaravanRidingSpeedFactor>1.6</CaravanRidingSpeedFactor>
     </statBases>
     <butcherProducts>
       <Leather_Bird>15</Leather_Bird>
@@ -874,6 +881,7 @@ Desert Sparaken is what happens when you make a Desert Sparrow into a terror bir
       <ComfyTemperatureMin>20</ComfyTemperatureMin>
       <ComfyTemperatureMax>55</ComfyTemperatureMax>
       <FilthRate>8</FilthRate>
+      <CaravanRidingSpeedFactor>1.6</CaravanRidingSpeedFactor>
     </statBases>
     <butcherProducts>
       <Leather_Bird>15</Leather_Bird>
@@ -1042,6 +1050,7 @@ Pileaken is what happens when you make a Pileated pecker into a terror bird. Thi
       <ComfyTemperatureMin>-15</ComfyTemperatureMin>
       <ComfyTemperatureMax>30</ComfyTemperatureMax>
       <FilthRate>8</FilthRate>
+      <CaravanRidingSpeedFactor>1.2</CaravanRidingSpeedFactor>
     </statBases>
     <butcherProducts>
       <Leather_Bird>15</Leather_Bird>
@@ -1209,6 +1218,7 @@ Sparaken is what happens when you make a Sparrow into a terror bird. This breed 
       <ComfyTemperatureMin>5</ComfyTemperatureMin>
       <ComfyTemperatureMax>34</ComfyTemperatureMax>
       <FilthRate>8</FilthRate>
+      <CaravanRidingSpeedFactor>1.6</CaravanRidingSpeedFactor>
     </statBases>
     <butcherProducts>
       <Leather_Bird>15</Leather_Bird>
@@ -1375,6 +1385,7 @@ Heronken are what happens when you make a heron into a terror bird. Living large
       <ComfyTemperatureMin>0</ComfyTemperatureMin>
       <ComfyTemperatureMax>35</ComfyTemperatureMax>
       <FilthRate>8</FilthRate>
+      <CaravanRidingSpeedFactor>1.4</CaravanRidingSpeedFactor>
     </statBases>
     <butcherProducts>
       <Leather_Bird>15</Leather_Bird>
