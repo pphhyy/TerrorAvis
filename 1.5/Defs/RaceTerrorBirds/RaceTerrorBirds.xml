@@ -686,7 +686,7 @@ Touken are what happens when you make a Toucan into a terror bird. This breed is
       <li>
         <bodyGraphicData>
           <texPath>Animals/Touken/Touken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.6</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -694,7 +694,7 @@ Touken are what happens when you make a Toucan into a terror bird. This breed is
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Touken/Dessicated_Touken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.6</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -854,7 +854,7 @@ Vulakenare is what happens when you make a Bearded Vulture into a terror bird. T
       <li>
         <bodyGraphicData>
           <texPath>Animals/Vulaken/Vulaken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.6</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -862,7 +862,7 @@ Vulakenare is what happens when you make a Bearded Vulture into a terror bird. T
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Vulaken/Dessicated_Vulaken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.6</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -1022,7 +1022,7 @@ Desert Sparaken is what happens when you make a Desert Sparrow into a terror bir
       <li>
         <bodyGraphicData>
           <texPath>Animals/DesertSparaken/DesertSparaken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.6</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -1030,7 +1030,7 @@ Desert Sparaken is what happens when you make a Desert Sparrow into a terror bir
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/DesertSparaken/Dessicated_DesertSparaken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.6</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
@@ -1358,7 +1358,7 @@ Sparaken is what happens when you make a Sparrow into a terror bird. This breed 
       <li>
         <bodyGraphicData>
           <texPath>Animals/Sparaken/Sparaken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.6</drawSize>
           <shadowData>
             <volume>(0.4, 0.4, 0.4)</volume>
             <offset>(0,0,-0.2)</offset>
@@ -1366,7 +1366,7 @@ Sparaken is what happens when you make a Sparrow into a terror bird. This breed 
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
           <texPath>Animals/Sparaken/Dessicated_Sparaken</texPath>
-          <drawSize>1.4</drawSize>
+          <drawSize>1.6</drawSize>
         </dessicatedBodyGraphicData>
       </li>
     </lifeStages>
