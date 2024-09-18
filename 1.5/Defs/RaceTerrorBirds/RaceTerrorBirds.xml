@@ -1007,7 +1007,7 @@ Desert Sparaken is what happens when you make a Desert Sparrow into a terror bir
     <lifeStages>
       <li>
         <bodyGraphicData>
-          <texPath>Animals/DesertSparaken/DesertSparaken</texPath>
+          <texPath>Animals/DesertSparaken/DesertSparakenChick</texPath>
           <drawSize>1.2</drawSize>
           <shadowData>
             <volume>(0.3, 0.3, 0.3)</volume>
